@@ -1,0 +1,2 @@
+A couple of analysis file that I used to train and analyze models for the Cassava Leaf Disease Classification
+competition on kaggle. Best Public leader board accuracy was 0.896 achieved with 5-cv EffiecientNetB7 models trained with 600x600 image resolution.
